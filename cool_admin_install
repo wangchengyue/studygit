@@ -1,0 +1,2 @@
+在安裝```cooladmin```的時候，```npm install ``` 以後，出現了一系列的問題，第一個問題：
+###1. Error: Cannot find module 'worker_threads'
